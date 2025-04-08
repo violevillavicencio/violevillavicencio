@@ -1,55 +1,32 @@
-<h1 align="center">¡Hola! 👋 Soy Viole Villavicencio</h1>
-<p align="center">💻 Estudiante
-
----
-
-### 📊 Estadísticas & Lenguajes
+<h1 align="center">Hola, soy Viole </h1>
+<p align="center">💻 Estudiante en la UNLP informatica
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=violevillavicencio&layout=compact&theme=tokyonight&langs_count=8" alt="Top Langs" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F797E3&center=true&vCenter=true&width=435&lines=Desarrolladora+Web;Amante+de+la+programación;Curiosa+por+naturaleza" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 Repositorios destacados
+### 📊 Tecnologías que uso
 
 <p align="center">
-  <a href="https://github.com/violevillavicencio/api-videojuegos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=violevillavicencio&repo=api-videojuegos&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/violevillavicencio/liquidacion-empleados">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=violevillavicencio&repo=liquidacion-empleados&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/violevillavicencio/oobnb">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=violevillavicencio&repo=oobnb&theme=tokyonight" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=violevillavicencio&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Lenguajes más usados por violevillavicencio" />
 </p>
 
 ---
 
-### 🧰 Tecnologías que uso
+<p align="center">
+  ✨ Explorá mis repositorios 👇
+</p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+  <a href="https://github.com/violevillavicencio/oobnb"><img src="https://img.shields.io/badge/OOBnB-Java-%23f7941d?style=for-the-badge&logo=java&logoColor=white" /></a>
+  <a href="https://github.com/violevillavicencio/liquidacion-empleados"><img src="https://img.shields.io/badge/Liquidaci%C3%B3n%20Empleados-Java-%23007396?style=for-the-badge&logo=java&logoColor=white" /></a>
+  <a href="https://github.com/violevillavicencio/videojuegos-api"><img src="https://img.shields.io/badge/API%20Videojuegos-PHP-%2386B817?style=for-the-badge&logo=php&logoColor=white" /></a>
 </p>
 
 ---
 
-### 📫 Contacto
-
-- 📧 violevillavicencio.dev@example.com  
-- 💼 [LinkedIn (si tenés)](https://www.linkedin.com/in/...)  
-- 🌐 [Portfolio (si tenés)](https://...)
-
----
-
-### 📈 Stats & Badges
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=violevillavicencio&label=Visitas&color=blue&style=flat" alt="violevillavicencio" />
-  <img src="https://img.shields.io/github/last-commit/violevillavicencio/api-videojuegos?label=Última actualización&color=green" />
+  🦄 Gracias por visitar mi perfil 🤍
 </p>
