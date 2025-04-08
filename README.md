@@ -10,4 +10,4 @@
 ---
 
 <p align="center">
-  ✨ Explorá mis repositorios 👇
+  Mis repositorios 👇
