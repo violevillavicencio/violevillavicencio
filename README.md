@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Viole!! </h1>
+<h1 align="center">Hola, soy Violeta!! </h1>
 <p align="center">💻 Estudiante de ATIC en facultad de Informática UNLP
 
 ---
