@@ -1,7 +1,34 @@
-
 <h1 align="center"> Hola, soy Violeta!!</h1>
-<p align="center">💻 Estudiante de ATIC en la Facultad de Informática (UNLP)</p>
 
-<img width="220" height="124" alt="image" src="https://github.com/user-attachments/assets/3792c411-28fe-4caa-8fe3-148b01dd1d60" />
+<p align="center">
+💻 Estudiante de ATIC en la Facultad de Informática (UNLP)
+</p>
 
-<p align="center"> Mis repos 👇</p>
+---
+
+<p align="center">
+  <img 
+    src=https://media.tenor.com/8hfmcs2bibwAAAAM/super-hero-gohan.gif
+    width="500"
+  />
+</p>
+
+---
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=violevillavicencio&layout=donut&theme=tokyonight&hide_border=true&bg_color=00000000"
+    height="220"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://skillicons.dev/icons?i=java,pascal,python,php,js,html,css,mysql,linux"
+  />
+</p>
+
+---
+
+<p align="center"> Mis repositorios 👇</p>
+```
