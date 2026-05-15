@@ -7,9 +7,11 @@
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=violevillavicencio&layout=compact&theme=github_dark&hide_border=true&langs_count=8" 
-    alt="Lenguajes más usados por Violeta" 
+    alt="Lenguajes más usados por Violeta"
   />
 </p>
+```
+
 
 ---
 
